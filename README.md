@@ -1,0 +1,1 @@
+This application automatically generates comprehensive activity proposals based on a provided summary or proposal details. It includes sections for objectives, target audience, detailed activity plan, resources required, expected outcomes, and fundraising activities.
